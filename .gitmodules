@@ -1,0 +1,3 @@
+[submodule "pytorch-mobilenet-v2"]
+	path = pytorch-mobilenet-v2
+	url = https://github.com/tonylins/pytorch-mobilenet-v2.git
