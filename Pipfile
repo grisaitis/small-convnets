@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 torch = "==1.2.0"
 torchvision = "==0.4.0"
-jupyterlab = "==1.1.1"
+jupyterlab = "==1.2.21"
 opencv-python = "==4.1.1.26"
 torchsummary = "*"
 
